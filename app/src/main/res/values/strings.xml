@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Write Nepal</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_about_us">About Us</string>
+
+    <string name="my_banner_id">ca-app-pub-5708324311795426/8036178998</string>
+    <string name="about_write_nepal">Nepali Writers is a group that works on building platform to help the young and aspiring writers of Nepal. We have been working since 2013 to help the writers share their write-ups in different platforms.\n\n Write, Nepal is an online portal of Nepali writers. It is simply a platform for all to share their literature and to interact. Interact in a way that promotes writer-reader relationship and creates an ambience of concord and differences. In other words, Write Nepal is an intellectual community</string>
+    <string name="home_text"><![CDATA[Everyone has a \"writer\" inside us! Some of us use it to make plans and wander with thoughts, some of us write it down, scribble and throw the pages, some of us write it down in a memo-book secretly which is seen by only self, while some of us grab every opportunity to expose our talents ,one of those platforms to expose your writing, is \"Write Nepal\" !]]></string>
+    <string name="member_name"> Abhash Acharya \n Misan Baral \n Ankit Khanal \n Komal Niraula \n  Bipin Khatiwada \n Anupam Bhattarai </string>
+    <string name="refresh_content">Refresh Content</string>
+    <string name="search_here">Search here ...</string>
+    <integer name="descriptionSize">100</integer>
+
+    <string-array name="quotes">
+        <item>\"Poetry is when an emotion has found its thought and the thought has found words.\" \n \t\t - Robert Frost</item>
+        <item>\"Poets are soldiers that liberate words from the steadfast possession of definition.\" \n \t\t – Eli Khamarov</item>
+        <item>\"In science one tries to tell people, in such a way as to be understood by everyone, something that no one ever knew before. But in poetry, it\'s the exact opposite.\" \n \t\t - Paul Dirac</item>
+        <item>\"There is no greater agony than bearing an untold story inside you.\" \n \t\t - Maya Angelou</item>
+        <item>\"After nourishment, shelter and companionship, stories are the thing we need most in the world.\" \n \t\t -Philip Pullman</item>
+        <item>\"Intelligence plus character-that is the goal of true education.\"\n \t\t - Martin Luther King Jr.</item>
+        <item>\"Someone is sitting in the shade today because someone planted a tree a long time ago.\" \n \t\t - Warren Buffett</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

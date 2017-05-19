@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/nav_essay"
+            android:icon="@drawable/ic_action_essay"
+            android:title="Essay" />
+        <item
+            android:id="@+id/nav_poem"
+            android:icon="@drawable/ic_action_poems"
+            android:title="Poems" />
+        <item
+            android:id="@+id/nav_story"
+            android:icon="@drawable/ic_action_stories"
+            android:title="Stories" />
+
+
+        <item
+            android:id="@+id/nav_gajal"
+            android:icon="@drawable/ic_action_gajal"
+            android:title="Gajal"
+
+            ></item>
+
+        <item
+            android:id="@+id/nav_balsansar"
+            android:icon="@drawable/ic_action_balsansar"
+            android:title="Bal Sansar" />
+
+        <item
+            android:id="@+id/nav_other"
+            android:icon="@drawable/ic_action_other"
+            android:title="Other" />
+
+
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/nav_offline"
+                android:icon="@drawable/ic_action_other"
+                android:title="Offline Data "
+                />
+            <item
+                android:id="@+id/nav_aboutus"
+                android:icon="@drawable/ic_aboutus"
+                android:title="About Us"
+                >
+
+            </item>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_action_send"
+                android:title="Submit Us">
+
+            </item>
+            <item
+                android:id="@+id/nav_visitsite"
+                android:icon="@drawable/ic_visitsite"
+                android:title="Visit Site" />
+
+        </menu>
+    </item>
+
+</menu>
